@@ -1,47 +1,40 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shoe Scraping Project</title>
-</head>
-<body>
+# Shoe Scraping Project
 
-    <h1>Shoe Scraping Project</h1>
+This project involves web scraping shoe data from Flipkart using Python and BeautifulSoup. The scraped data is stored in a CSV file for further analysis.
 
-    <p>This project involves web scraping shoe data from Flipkart using Python and BeautifulSoup. The scraped data is stored in a CSV file for further analysis.</p>
+## Getting Started
 
-    <h2>Getting Started</h2>
+### Prerequisites
 
-    <h3>Prerequisites</h3>
-    <p>Make sure you have the following prerequisites installed:</p>
-    <ul>
-        <li>Python 3.x</li>
-        <li>Beautiful Soup 4</li>
-        <li>pandas</li>
-    </ul>
+Make sure you have the following prerequisites installed:
 
-    <p>You can install the required packages using:</p>
-    <pre><code>pip install beautifulsoup4 pandas</code></pre>
-    <br>
+- Python 3.x
+- BeautifulSoup
+- pandas
+- numpy
 
-    <p>This script scrapes shoe data from Flipkart and saves it to a CSV file.</p>
+You can install the required packages using:
 
-    <h2>File Structure</h2>
+pip install BeautifulSoup pandas
 
-    <ul>
-        <li><strong>FLipkart.ipynb</strong>: Python script for web scraping.</li>
-        <li><strong>Flipkart_scraped_data</strong>: CSV file containing the scraped shoe data.</li>
-    </ul>
+Scrapes shoe data from Flipkart and saves it to a CSV file.
 
-    <h2>Contributing</h2>
+File Structure
+FLipkart.ipynb: Python script for web scraping.<br>
+Flipkart_scraped_data: CSV file containing the scraped shoe data.<br>
+Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+<br>
 
-    <p>Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.</p>
+### Used for -
+- Market analysis
+- Price comparision
+- Brand analysis
+- Dynamic Pricing Strategies
+- Customer Reviews
+- Competitor Analysis
 
-    
-    <h2>Acknowledgments</h2>
-
-    <p>Thanks to <a href="https://www.flipkart.com">Flipkart</a> for providing the data.</p>
-
-</body>
-</html>
+<br>
+Acknowledgments
+Remember to comply with the terms of service of the website you are scraping, and be mindful of ethical considerations when using the scraped data. Additionally, always ensure that your use of the data complies with relevant privacy laws and regulations.<br>
+Thanks to Flipkart for providing the data.
