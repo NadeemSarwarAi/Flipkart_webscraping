@@ -13,16 +13,16 @@ Make sure you have the following prerequisites installed:
 - pandas
 - numpy
 
-You can install the required packages using:
+You can install the required packages using:<br>
 
-pip install BeautifulSoup pandas
+pip install BeautifulSoup pandas<br>
 
-Scrapes shoe data from Flipkart and saves it to a CSV file.
+Scrapes shoe data from Flipkart and saves it to a CSV file.<br>
 
-File Structure
+### File Structure
 FLipkart.ipynb: Python script for web scraping.<br>
 Flipkart_scraped_data: CSV file containing the scraped shoe data.<br>
-Contributing
+### Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 <br>
 
@@ -34,7 +34,8 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 - Customer Reviews
 - Competitor Analysis
 
-<br>
-Acknowledgments
+
+### Acknowledgments
 Remember to comply with the terms of service of the website you are scraping, and be mindful of ethical considerations when using the scraped data. Additionally, always ensure that your use of the data complies with relevant privacy laws and regulations.<br>
-Thanks to Flipkart for providing the data.
+
+#### Thanks to Flipkart for providing the data.
